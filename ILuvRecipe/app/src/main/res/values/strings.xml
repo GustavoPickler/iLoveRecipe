@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ILuvRecipe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="title_activity_list">activity_list</string>
+    <string name="title_activity_cadastro_pessoa">CadastroPessoa</string>
+    <string name="fab_content_desc" />
+</resources>
